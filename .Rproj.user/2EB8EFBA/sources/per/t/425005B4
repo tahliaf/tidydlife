@@ -9,7 +9,9 @@
     "created": 1598251471270.0,
     "source_on_save": false,
     "relative_order": 1,
-    "properties": {},
+    "properties": {
+        "Source": "Source"
+    },
     "folds": "",
     "lastKnownWriteTime": 1598250817,
     "encoding": "UTF-8",
